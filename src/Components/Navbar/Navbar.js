@@ -14,7 +14,7 @@ function Navbar() {
             <li>Company <select></select></li>
             <li>Careers</li>
             <li>About</li>
-          </ul>  
+          </ul>
       </div>
     </div>
   )
