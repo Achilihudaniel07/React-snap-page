@@ -56,7 +56,7 @@ select{
 @media screen and (max-width:800px) {
     .left{
         background:linear-gradient(to right, rgba(255, 0, 0, 0.649),
-        rgba(0, 0, 255, 0.603));;
+        rgba(0, 0, 255, 0.603));
       width:100%;
     }
 
