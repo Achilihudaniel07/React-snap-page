@@ -28,7 +28,7 @@
   
 .main {
     float:left;
-    width:50%;
+    width:40%;
 }
 
 ul, li {
@@ -54,7 +54,16 @@ select{
   
 
 @media screen and (max-width:600px) {
-    .left, .main, .right {
-      width:70%;
+    .left{
+      width:80%;
+      text-align: center;
+    }
+
+    .main{
+        display: flex;
+    }
+
+    .bdy p{
+        width: 80%;
     }
 }

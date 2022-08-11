@@ -4,7 +4,8 @@ import './Footer.css'
 function Footer() {
   return (
     <div>
-        <footer>
+      <footer>
+        <hr/>
         <div class="footer">
           <div class="footer1">
             ©Copyright Daniel A. Online Services 2022  |  Developed by   <a href="https://web.facebook.com/daniel.achilihu.9/">Achilihu Daniel Uchenna</a>                  

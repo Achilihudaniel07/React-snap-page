@@ -24,3 +24,10 @@
     border-radius:10px;
     margin-bottom: 50px;
 }
+
+
+@media screen and (max-width:600px) {
+    .bdy p{
+        width: 100%;
+    }
+}
