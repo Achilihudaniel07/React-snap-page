@@ -53,10 +53,15 @@ select{
 }
   
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:800px) {
     .left{
-      width:80%;
-      text-align: center;
+        background:linear-gradient(to right, rgba(255, 0, 0, 0.649),
+        rgba(0, 0, 255, 0.603));;
+      width:100%;
+    }
+
+    .left h1{
+        font-size: 4rem;
     }
 
     .main{
@@ -64,6 +69,6 @@ select{
     }
 
     .bdy p{
-        width: 80%;
+        width: 100%;
     }
 }
