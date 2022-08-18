@@ -55,12 +55,13 @@ select{
 
 @media screen and (max-width:800px) {
     .left{
-        background:linear-gradient(to right, rgba(255, 0, 0, 0.649),
-        rgba(0, 0, 255, 0.603));
+        background:linear-gradient(to right, rgba(246, 0, 0, 0.968),
+        rgb(9, 9, 253));
       width:100%;
     }
 
     .left h1{
+        color: white;
         font-size: 4rem;
     }
 
